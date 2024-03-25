@@ -1,0 +1,14 @@
+.home-container {
+    padding: 40px;
+}
+
+.start-button {
+    color: #fff;
+    border-radius: 4px;
+}
+
+.home-container h4 {
+    letter-spacing: 0.02em;
+    color: #7E7E7E;
+    margin-bottom: 25px;
+}

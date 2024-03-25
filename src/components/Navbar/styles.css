@@ -1,0 +1,12 @@
+.main-nav {
+    padding: 15px 40px;
+    min-height: 62px;
+    background-color: #1890FF;
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+  }
+  
+  .main-nav h4 {
+    margin: 0;
+  }
